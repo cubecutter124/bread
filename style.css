@@ -1,8 +1,21 @@
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 body {
     text-align: center;
     font-family: teko;
+    background-color: #a8bcc4;
 }
 
 h1 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: ;
+    font-size:100px;
 }
+
+p {
+    font-size: 42;
+}
+
